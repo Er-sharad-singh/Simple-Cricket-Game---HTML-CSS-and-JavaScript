@@ -35,7 +35,7 @@ How to Play:
 
 Live Demo:
 
-- Check out the live version of the game and play it directly in your browser!
+https://er-sharad-singh.github.io/Simple-Cricket-Game---HTML-CSS-and-JavaScript/ - Check out the live version of the game and play it directly in your browser!
 
 Contributions:
 
